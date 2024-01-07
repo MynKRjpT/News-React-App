@@ -7,7 +7,7 @@ export default class NavBar extends Component {
         <nav className="navbar navbar-expand-lg bg-danger">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-              Daily News - Weather, Games and Politics ....
+              Daily News - Techs ,Weather, Games and Politics--
             </a>
             <button
               className="navbar-toggler"
