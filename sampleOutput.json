@@ -1,266 +1,266 @@
 {
-    "status": "ok",
-    "totalResults": 70,
-    "articles": [
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "Merkur.de",
-        "title": "Von Trennung bis Todesfall: Haushaltsauflösung erfolgreich meistern - Merkur.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm1lcmt1ci5kZS92ZXJicmF1Y2hlci9tZWlzdGVybi12b24tdHJlbm51bmctYmlzLXRvZGVzZmFsbC1oYXVzaGFsdHNhdWZsb2VzdW5nLWVyZm9sZ3JlaWNoLXpyLTkyNzYxNDA0Lmh0bWzSAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-06T06:11:00Z",
-        "content": null
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+      "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "Merkur.de",
-        "title": "Deutscher Getränkehersteller meldet Insolvenz an - nach 75 Jahren - Merkur.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5tZXJrdXIuZGUvdmVyYnJhdWNoZXIvZGV1dHNjaGVyLWdldHJhZW5rZWhlcnN0ZWxsZXItbWVsZGV0LW5hY2gtNzUtamFocmVuLXRyYWRpdGlvbnNoZXJzdGVsbGVyLWluc29sdmVuei16ci05Mjc1Mzk0Ny5odG1s0gEA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-06T04:57:55Z",
-        "content": null
+      "author": "Hannah Knowles, Maegan Vazquez, Marianne LeVine, Azi Paybarah, Dylan Wells, Amy B Wang, Ann E. Marimow, Patrick Marley, Matt Viser, Philip Bump, Aaron Blake, HyoJung Kim, Amber Phillips, Mariana Alfaro, Caroline Kitchener, Josh Dawsey, Meryl Kornfield",
+      "title": "Trump returned to Iowa, Biden spoke out on democracy - The Washington Post",
+      "description": "Live updates from the 2024 campaign trail with the latest news on presidential candidates, polls, primaries and more.",
+      "url": "https://www.washingtonpost.com/politics/2024/01/05/election-2024-campaign-updates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-05-2024/t_d720b6f05efa4375bcbd67a8989f076f_name_CGSZVTZBSEXW4WTN3RPMGLWACM_scaled.jpg&w=1440",
+      "publishedAt": "2024-01-06T07:52:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        
+        "name": "Reuters"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "Merkur.de",
-        "title": "Küchenhersteller steht endgültig vor dem Aus: Nächste Firma meldet Insolvenz an - Merkur.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5tZXJrdXIuZGUvd2lydHNjaGFmdC9hbi1rdWVjaGVuaGVyc3RlbGxlci1zdGVodC1lbmRndWVsdGlnLXZvci1kZW0tYXVzLW5hZWNoc3RlLWZpcm1hLW1lbGRldC1pbnNvbHZlbnotenItOTI3NjAwNTQuaHRtbNIBAA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-06T04:05:00Z",
-        "content": null
+      "author": "Reuters",
+      "title": "US Supreme Court to hear Trump appeal of Colorado ballot disqualification - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/legal/us-supreme-court-hear-trump-appeal-colorado-ballot-disqualification-2024-01-05/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-06T06:57:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "hna.de",
-        "title": "DHL-Mitarbeiter wüten gegen Kunden mit Zettel-Aushang: „Fühle es zu 100 Prozent“ - hna.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmhuYS5kZS92ZXJicmF1Y2hlci93dXQtcG9ydG8tYnJpZWYtZGhsLW1pdGFyYmVpdGVyLWZpbGlhbGUta3VuZGVuLXpldHRlbC1hdXNoYW5nLXpyLTkyNzU4Mzc5Lmh0bWzSAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-06T03:58:00Z",
-        "content": null
+      "author": "James Hill",
+      "title": "4 new batches of documents naming Jeffrey Epstein's associates released - ABC News",
+      "description": "The new release includes 132 documents.",
+      "url": "https://abcnews.go.com/US/2-new-batches-documents-naming-jeffrey-epsteins-associates/story?id=106140893",
+      "urlToImage": "https://i.abcnewsfe.com/a/62e523b1-5c89-4f82-80f7-06a7f8b18fd4/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2024-01-06T03:50:16Z",
+      "content": "Four more tranches of court records pertaining to the late sex offender Jeffrey Epstein were unsealed Friday.\r\nA total of 132 documents were released Friday. About 19 documents were released Thursday… [+3810 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "tz.de",
-        "title": "Die nächsten Benko-Pleiten in München – Riese in der Innenstadt jetzt betroffen - tz.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnR6LmRlL211ZW5jaGVuL3N0YWR0L3BsZWl0ZW4tamV0enQtdHJpZmZ0LWVzLWRlbi1zY2hpY2tlbi1vYmVycG9sbGluZ2VyLWRpZS1uYWVjaHN0ZW4tYmVua28tOTI3NTA0ODYuaHRtbNIBAA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-06T02:00:46Z",
-        "content": null
+      "author": "MARI YAMAGUCHI",
+      "title": "Japanese safety experts search for voice data as workers clear plane debris from runway collision - The Associated Press",
+      "description": "Transport safety officials are searching for the voice recorder from a Japan Airlines airliner that caught fire after a collision with a coast guard plane. They hope the recorder will containe crucial information to determine the cause of the clash at Tokyo's…",
+      "url": "https://apnews.com/article/japan-haneda-runway-fire-jal-coast-guard-airbus-c7f06e9e73fb36245d6407dfce688535",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c110e98/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Ff4%2F71e9478ed8da89701fb5267f0b18%2F1fabb87512d3491f91e8525295b4d43e",
+      "publishedAt": "2024-01-06T03:37:00Z",
+      "content": "Transport safety officials searched for a voice recorder from the severely burned fuselage of a Japan Airlines plane, seeking crucial information on what caused a collision with a small coast guard p… [+3743 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "CHIP Online Deutschland",
-        "title": "Deutscher Telefon-Riese im Insolvenzverfahren: Was das für Kunden jetzt bedeutet - CHIP Online Deutschland",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9UZWxlZm9uLVVudGVybmVobWVuLWlzdC1pbnNvbHZlbnQtU28tc29sbC1lcy1qZXR6dC13ZWl0ZXJnZWhlbl8xODQ5NTQ2NzYuaHRtbNIBAA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T23:31:27Z",
-        "content": null
+      "author": "Reuters UK",
+      "title": "Britain hit by flooding after heavy rain swells major rivers - Reuters UK",
+      "description": null,
+      "url": "https://www.reuters.com/world/uk/britain-hit-by-flooding-after-heavy-rain-swells-major-rivers-2024-01-05/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-06T03:20:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Heat.com"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "finanzen.net",
-        "title": "Cathie Wood dennoch zuversichtlich: ARK Invest-Gründerin prognostiziert Einbruch des Bitcoin-Kurses nach Zulassung eines Bitcoin-ETF - finanzen.net",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMizQFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2RldmlzZW4va2Vpbi1ncnVuZC16dXItc29yZ2UtY2F0aGllLXdvb2QtZGVubm9jaC16dXZlcnNpY2h0bGljaC1hcmstaW52ZXN0LWdydWVuZGVyaW4tcHJvZ25vc3RpemllcnQtZWluYnJ1Y2gtZGVzLWJpdGNvaW4ta3Vyc2VzLW5hY2gtenVsYXNzdW5nLWVpbmVzLWJpdGNvaW4tZXRmLTEzMTUwMDUy0gG_AWh0dHBzOi8vd3d3LmZpbmFuemVuLm5ldC9hbXAva2Vpbi1ncnVuZC16dXItc29yZ2UtY2F0aGllLXdvb2QtZGVubm9jaC16dXZlcnNpY2h0bGljaC1hcmstaW52ZXN0LWdydWVuZGVyaW4tcHJvZ25vc3RpemllcnQtZWluYnJ1Y2gtZGVzLWJpdGNvaW4ta3Vyc2VzLW5hY2gtenVsYXNzdW5nLWVpbmVzLWJpdGNvaW4tZXRmLTEzMTUwMDUy?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T22:16:00Z",
-        "content": null
+      "author": "Marc D'Amico",
+      "title": "Keys to the Game: Celtics 126, Jazz 97 - NBA.com",
+      "description": null,
+      "url": "https://www.nba.com/celtics/news/gamerecap-keys-20250105-utabos",
+      "urlToImage": "https://cdn.nba.com/teams/uploads/sites/1610612738/2024/01/jruekornet.jpg",
+      "publishedAt": "2024-01-06T03:12:00Z",
+      "content": "Boston came out hot Friday night. Utah did not.\r\nAnd thats an understatement.\r\nThe Jazz were as cold as an ice-tipped mountain throughout the majority of the first half. So cold, in fact, that they m… [+3119 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "finanzen.net",
-        "title": "Enormes Kursziel für NASDAQ-Wert Plug Power-Aktie: Experten sehen Aufwärtspotenzial in 2024 - finanzen.net",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2FrdGllbi9uYWNoLWt1cnNydWVja2dhZW5nZW4tZW5vcm1lcy1rdXJzemllbC1mdWVyLW5hc2RhcS13ZXJ0LXBsdWctcG93ZXItYWt0aWUtZXhwZXJ0ZW4tc2VoZW4tYXVmd2FlcnRzcG90ZW56aWFsLWluLTIwMjQtMTMxNDc4MDHSAZgBaHR0cHM6Ly93d3cuZmluYW56ZW4ubmV0L2FtcC9uYWNoLWt1cnNydWVja2dhZW5nZW4tZW5vcm1lcy1rdXJzemllbC1mdWVyLW5hc2RhcS13ZXJ0LXBsdWctcG93ZXItYWt0aWUtZXhwZXJ0ZW4tc2VoZW4tYXVmd2FlcnRzcG90ZW56aWFsLWluLTIwMjQtMTMxNDc4MDE?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T21:19:00Z",
-        "content": null
+      "author": "Joseph Pisani",
+      "title": "Bill Ackman's Wife, Neri Oxman, Apologizes for Plagiarism in Her 2010 Dissertation - The Wall Street Journal",
+      "description": "The billionaire pushed for ouster of Claudine Gay from Harvard over plagiarism allegations, campus antisemitism policies",
+      "url": "https://www.wsj.com/us-news/bill-ackman-wife-neri-oxman-apologizes-for-plagiarism-in-her-2010-dissertation-ac01f4ce",
+      "urlToImage": "https://images.wsj.net/im-908720/social",
+      "publishedAt": "2024-01-06T03:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "finanzen.net",
-        "title": "Starker US-Aktienmarkt 2023 - doch mit diesen Aktien fuhren Anleger kräftige Verluste ein - finanzen.net",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2FrdGllbi91bmRlcnBlcmZvcm1lci1zdGFya2VyLXVzLWFrdGllbm1hcmt0LTIwMjMtZG9jaC1taXQtZGllc2VuLWFrdGllbi1mdWhyZW4tYW5sZWdlci1rcmFlZnRpZ2UtdmVybHVzdGUtZWluLTEzMTUxMDYx0gGNAWh0dHBzOi8vd3d3LmZpbmFuemVuLm5ldC9hbXAvdW5kZXJwZXJmb3JtZXItc3Rhcmtlci11cy1ha3RpZW5tYXJrdC0yMDIzLWRvY2gtbWl0LWRpZXNlbi1ha3RpZW4tZnVocmVuLWFubGVnZXIta3JhZWZ0aWdlLXZlcmx1c3RlLWVpbi0xMzE1MTA2MQ?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T19:51:00Z",
-        "content": null
+      "author": "Erin Jensen",
+      "title": "Gypsy-Rose Blanchard new documentary: 'Prison Confessions' bombshells - USA TODAY",
+      "description": "Gypsy-Rose Blanchard reveals the depths of the abuse she suffered at the hands of her mother, \"Dee Dee\" Blanchard, who she arranged to have killed.",
+      "url": "https://www.usatoday.com/story/entertainment/tv/2024/01/05/gypsy-rose-blanchard-lifetime-documentary-bombshells/72083380007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/03/USAT/72099391007-134-kb-dee-dee-gypsyscaled.jpeg?crop=1635,918,x0,y886&width=1635&height=918&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-06T03:03:12Z",
+      "content": "Gypsy-Rose Blanchard is now free from the confines of a Missouri prison and finding her voice and a sizeable audience on social media. Starting Friday, shell experience a new kind of release: reveali… [+4820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "GIGA",
-        "title": "31 Monate Balkonkraftwerk: So viel Geld habe ich bisher wirklich gespart - GIGA",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmdpZ2EuZGUvbmV3cy8zMS1tb25hdGUtYmFsa29ua3JhZnR3ZXJrLXNvLXZpZWwtZ2VsZC1oYWJlLWljaC1iaXNoZXItd2lya2xpY2gtZ2VzcGFydC_SAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T17:15:43Z",
-        "content": null
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "teltarif.de",
-        "title": "Mobilfunk 2024: Netzbetreiber vermelden erste Ausbauten - teltarif.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRlbHRhcmlmLmRlL25ldHphdXNiYXUtdGVsZWtvbS12b2RhZm9uZS1vMi0xdW5kMS9uZXdzLzk0MjAxLmh0bWzSAVBodHRwczovL3d3dy50ZWx0YXJpZi5kZS9hbXAvbmV0emF1c2JhdS10ZWxla29tLXZvZGFmb25lLW8yLTF1bmQxL25ld3MvOTQyMDEuaHRtbA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T17:00:00Z",
-        "content": null
+      "author": "Carly Thomas",
+      "title": "Michael Bolton Reveals He Was Diagnosed With a Brain Tumor, Underwent Surgery - Hollywood Reporter",
+      "description": "The singer said he will be taking a \"temporary break\" from touring to focus on recovery, writing, \"It is always the hardest thing for me to ever disappoint my fans or postpone a show.\"",
+      "url": "http://www.hollywoodreporter.com/news/music-news/michael-bolton-diagnosed-brain-tumor-underwent-surgery-1235780647/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/GettyImages-1496213005-H-2024.jpg?w=1024",
+      "publishedAt": "2024-01-06T02:21:47Z",
+      "content": "Michael Bolton revealed that he was recently diagnosed with a brain tumor and will be taking a break from touring to recover from surgery.\r\nThe Grammy-winning singer shared on social media Friday, “I… [+1735 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "finanzen.net",
-        "title": "Deutsche Bank-Aktie holen zwischenzeitliche Verluste dennoch auf - Sind die Papiere der Deutschen Bank zu weit gelaufen? - finanzen.net",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2FrdGllbi8zNC11bmRlcnBlcmZvcm0tMzQtZGV1dHNjaGUtYmFuay1ha3RpZS1ob2xlbi16d2lzY2hlbnplaXRsaWNoZS12ZXJsdXN0ZS1kZW5ub2NoLWF1Zi1zaW5kLWRpZS1wYXBpZXJlLWRlci1kZXV0c2NoZW4tYmFuay16dS13ZWl0LWdlbGF1ZmVuLTEzMTU1NjU20gGuAWh0dHBzOi8vd3d3LmZpbmFuemVuLm5ldC9hbXAvMzQtdW5kZXJwZXJmb3JtLTM0LWRldXRzY2hlLWJhbmstYWt0aWUtaG9sZW4tendpc2NoZW56ZWl0bGljaGUtdmVybHVzdGUtZGVubm9jaC1hdWYtc2luZC1kaWUtcGFwaWVyZS1kZXItZGV1dHNjaGVuLWJhbmstenUtd2VpdC1nZWxhdWZlbi0xMzE1NTY1Ng?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T16:52:00Z",
-        "content": null
+      "author": "Steff Danielle Thomas",
+      "title": "Biden blasts Supreme Court decision allowing Idaho to enforce ‘dangerous’ abortion ban - The Hill",
+      "description": "President Biden on Friday railed against the Supreme Court’s decision to allow Idaho to enact certain provisions in its near-total abortion ban, arguing it is a catalyst for Republican officials to “continue to jeopardize women’s health.” “Today’s Supreme Cou…",
+      "url": "https://thehill.com/policy/healthcare/4392492-biden-blasts-supreme-court-idaho-abortion-ban-decision/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP23231810785909-e1704507145380.jpg?w=1280",
+      "publishedAt": "2024-01-06T02:20:00Z",
+      "content": "Skip to content\r\nPresident Biden on Friday railed against the Supreme Court’s decision to allow Idaho to enact certain provisions in its near-total abortion ban, arguing it is a catalyst for Republic… [+2254 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "finanzen.net",
-        "title": "Redcare Pharmacy-Aktie stark nach Analystenhochstufung - auch DocMorris-Aktie im Rallymodus - finanzen.net",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5maW5hbnplbi5uZXQvbmFjaHJpY2h0L2FrdGllbi9rYXVmZW1wZmVobHVuZy1yZWRjYXJlLXBoYXJtYWN5LWFrdGllLXN0YXJrLW5hY2gtYW5hbHlzdGVuaG9jaHN0dWZ1bmctYXVjaC1kb2Ntb3JyaXMtYWt0aWUtaW0tcmFsbHltb2R1cy0xMzE1NTY1NNIBjgFodHRwczovL3d3dy5maW5hbnplbi5uZXQvYW1wL2thdWZlbXBmZWhsdW5nLXJlZGNhcmUtcGhhcm1hY3ktYWt0aWUtc3RhcmstbmFjaC1hbmFseXN0ZW5ob2Noc3R1ZnVuZy1hdWNoLWRvY21vcnJpcy1ha3RpZS1pbS1yYWxseW1vZHVzLTEzMTU1NjU0?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T16:28:00Z",
-        "content": null
+      "author": "Haley Ott",
+      "title": "Details on Prince Andrew allegations emerge from new Jeffrey Epstein documents — but no U.K. police investigation - CBS News",
+      "description": "The documents unsealed in a lawsuit related to Jeffrey Epstein contain testimony about previously public allegations against Prince Andrew.",
+      "url": "https://www.cbsnews.com/news/prince-andrew-allegations-jeffrey-epstein-documents-no-uk-police-investigation/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2019/11/17/dd8eb64c-1726-4849-b223-6043b8f07e36/thumbnail/1200x630/2cdea9e70ffa91d6689df7b5ec8d7bf6/1116epsteinandrew.jpg?v=3638d056f7798fc8425d74271bc0b398",
+      "publishedAt": "2024-01-06T02:09:02Z",
+      "content": "London's Metropolitan Police said they were not conducting any new investigations into Prince Andrew after a 2016 deposition accusing him of groping a woman's breast was released this week. The depos… [+3149 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "Volksstimme",
-        "title": "Kaufland schließt bis 2025 fünf Filialen - Ist auch Sachsen-Anhalt betroffen? - Volksstimme",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy52b2xrc3N0aW1tZS5kZS9kZXV0c2NobGFuZC11bmQtd2VsdC9zdXBlcm1hZXJrdGUta2F1ZmxhbmQtc2NobGllc3N0LWJpcy0yMDI1LWZ1ZW5mLWZpbGlhbGVuLWlzdC1hdWNoLXNhY2hzZW4tYW5oYWx0LWJldHJvZmZlbi0zNzYwOTMw0gEA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T16:22:56Z",
-        "content": null
+      "author": "Mike Snider",
+      "title": "COVID and flu cases rose over Christmas holiday and still rising - USA TODAY",
+      "description": "In the last full week of 2023, 38 states across the U.S. had high or very high activity of respiratory illnesses such as influenza, RSV and COVID-19.",
+      "url": "https://www.usatoday.com/story/news/health/2024/01/05/covid-flu-cases-increase-christmas/72125075007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/09/28/USAT/2485fe5d-2629-4c3a-a79c-2b25e5280eae-GettyImages-1217583991.jpg?crop=2118,1192,x0,y108&width=2118&height=1192&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-06T01:32:00Z",
+      "content": "Christmas brought the flu and other respiratory illnesses to many Americans, as more than half the states in the U.S. reported widespread sickness before the New Year.\r\nHoliday gatherings could resul… [+3913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indianapolis Star"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "t-online",
-        "title": "ADAC-Autotest: Die schlechtesten Modelle des Jahres | Ranking - t-online",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnQtb25saW5lLmRlL21vYmlsaXRhZXQvYWt0dWVsbGVzL2lkXzEwMDMxNDIxOC9hZGFjLWF1dG90ZXN0LWRpZS1zY2hsZWNodGVzdGVuLW1vZGVsbGUtZGVzLWphaHJlcy1yYW5raW5nLmh0bWzSAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T15:31:44Z",
-        "content": null
+      "author": "Evan Frank",
+      "title": "Purdue basketball vs Illinois live recap, highlights of Big Ten game - IndyStar",
+      "description": "No.1 Purdue hosts No. 8 Illinois tonight. Follow along for live updates.",
+      "url": "https://www.indystar.com/story/sports/college/purdue/2024/01/05/purdue-basketball-illinois-live-updates-score-highlights-big-ten/72108272007/",
+      "urlToImage": "https://www.indystar.com/gcdn/authoring/authoring-images/2024/01/06/PLAI/72127592007-purdue-illinois-mbb-010524-am-00026.jpg?crop=3015,1697,x0,y105&width=3015&height=1697&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-06T01:30:00Z",
+      "content": "The Purdue men's basketball team has won six in a row and is the top-ranked team in the country.\r\nAfter the Boilermakers (13-1 overall, 2-1 Big Ten) beat Maryland 67-53 on the road, Purdue sets its s… [+6551 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "FAZ - Frankfurter Allgemeine Zeitung",
-        "title": "Börse: Die erste Woche im Jahr 2024 ist ein düsteres Omen - FAZ - Frankfurter Allgemeine Zeitung",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZhei5uZXQvYWt0dWVsbC9maW5hbnplbi9ib2Vyc2UtZGllLWVyc3RlLXdvY2hlLWltLWphaHItMjAyNC1pc3QtZWluLWR1ZXN0ZXJlcy1vbWVuLTE5NDI4MjkyLmh0bWzSAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T15:31:00Z",
-        "content": null
+      "author": "SCOTT McFETRIDGE, RYAN J. FOLEY, JOSH FUNK, NICK INGRAM",
+      "title": "Iowa principal critically injured in school shooting risked himself to protect students, police say - The Associated Press",
+      "description": "An Iowa principal critically injured in a school shooting put himself in harm's way as he tried to protect students from the teenage gunman. State authorities said Perry High School Principal Dan Marburger and other staffers and students were wounded in the T…",
+      "url": "https://apnews.com/article/perry-high-school-shooting-iowa-5346218f2646bec796ba28928a00c745",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2d71d61/2147483647/strip/true/crop/8495x4778+0+443/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F61%2F74%2F54241629e7af2bfcac1a35b6fc53%2Fb74ed69479c74d8083d759164cc5ebf5",
+      "publishedAt": "2024-01-06T01:24:00Z",
+      "content": "PERRY, Iowa (AP) An Iowa principal critically injured in a school shooting put himself in harms way so students could try to escape from a teenage shooter who opened fire in a cafeteria as students w… [+8468 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "t-online",
-        "title": "Otto: Chefsessel mit 210 Euro Rabatt im Angebot | Bürostuhl - t-online",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50LW9ubGluZS5kZS9yYXRnZWJlci9kZWFscy9oYXVzaGFsdHNnZXJhZXRlLWRlYWxzL2lkXzEwMDI4NDI1Mi9vdHRvLWNoZWZzZXNzZWwtbWl0LTIxMC1ldXJvLXJhYmF0dC1pbS1hbmdlYm90LWJ1ZXJvc3R1aGwuaHRtbNIBAA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T15:15:00Z",
-        "content": null
+      "author": "Stephen Clark",
+      "title": "Here's a first look at United Launch Alliance's new Vulcan rocket - Ars Technica",
+      "description": "ULA's first flight-ready Vulcan rocket is finally on the launch pad.",
+      "url": "https://arstechnica.com/space/2024/01/heres-a-first-look-at-united-launch-alliances-new-vulcan-rocket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/vulcanroll3-760x380.jpg",
+      "publishedAt": "2024-01-06T01:17:59Z",
+      "content": "38\r\n<ul><li>\r\n United Launch Alliance's first Vulcan rocket prepares to emerge from the Vertical Integration Facility at Cape Canaveral Space Force Station in Florida. \r\n</li><li>\r\n ULA's fully stack… [+7957 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "hna.de",
-        "title": "VW senkt die Preise drastisch - mit Rabatten von über 7000 Euro - hna.de",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5obmEuZGUvd2lydHNjaGFmdC92dy1lbGVrdHJvYXV0by1wcmVpc2UtZGV1dHNjaGxhbmQtYWt0aW9uc3ByYWVtaWUtdm9sa3N3YWdlbi1tb2RlbGxlLW1hcmt0c3RhcnQtaWQyLXpyLTkyNzYwMDg1Lmh0bWzSAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T15:08:00Z",
-        "content": null
+      "author": "Axios",
+      "title": "Navajo Nation fights sending human remains to the moon - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/01/05/navajo-nation-human-remains-moon-sacred",
+      "urlToImage": null,
+      "publishedAt": "2024-01-06T01:11:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "WAZ News",
-        "title": "Warum Galeria Karstadt Kaufhof fünf Filialen in NRW schließt - WAZ News",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndhei5kZS93aXJ0c2NoYWZ0L3dhcnVtLWdhbGVyaWEta2Fyc3RhZHQta2F1ZmhvZi1mdWVuZi1maWxpYWxlbi1pbi1ucnctc2NobGllc3N0LWlkMjQxMzU3MTU4Lmh0bWzSAQA?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T14:57:06Z",
-        "content": null
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Aditya-L1: India's Sun mission set to reach destination in hours - BBC",
+      "description": "Aditya-L1 has been travelling towards the Sun for more than four months since launch on 2 September.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-67871797",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16DF6/production/_130968639_f5aufzzboaasgxs.jpg",
+      "publishedAt": "2024-01-06T00:04:58Z",
+      "content": "India's first solar observation mission is set to reach its final destination in a few hours.\r\nOn Saturday, the space agency Isro will attempt to place Aditya-L1 in a spot in space from where it will… [+4258 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
       },
-      {
-        "source": {
-          "id": "google-news",
-          "name": "Google News"
-        },
-        "author": "TAG24",
-        "title": "Bei XXXLutz Schulenburg könnt Ihr am Sonntag (7.1.) günstig und lecker essen - TAG24",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50YWcyNC5kZS9hbnplaWdlL3h4eGx1dHotc2NodWxlbmJ1cmctYW5nZWJvdGUtd2VudG9yZi1oYWxzdGVuYmVrLWFtLXNvbm50YWctMDctMDEtMjAyNC13b2NoZW5lbmRlLWZhbWlsaWUtcmVzdGF1cmFudC0zMDQ2NzU20gGEAWh0dHBzOi8vd3d3LnRhZzI0LmRlL2FtcC94eHhsdXR6LXNjaHVsZW5idXJnLWFuZ2Vib3RlLXdlbnRvcmYtaGFsc3RlbmJlay1hbS1zb25udGFnLTA3LTAxLTIwMjQtd29jaGVuZW5kZS1mYW1pbGllLXJlc3RhdXJhbnQtMzA0Njc1Ng?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2024-01-05T14:55:00Z",
-        "content": null
-      }
-    ]
-  }
+      "author": "Luisa Beltran",
+      "title": "Mark Cuban defends DEI as fellow billionaires Musk, Ackman attack diversity strategies - Fortune",
+      "description": "Some of the richest people in the world sparred on social media over the meaning of DEI",
+      "url": "https://fortune.com/2024/01/05/mark-cuban-elon-musk-bill-ackman-tesla-twitter-dei-mavericks/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/01/Mark-Cuban-GettyImages-1475604307.jpg?resize=1200,600",
+      "publishedAt": "2024-01-05T23:45:00Z",
+      "content": "Mark Cuban emerged this week as one of the few billionaires willing to defend diversity, equity, and inclusion (DEI) efforts, saying hiring strategies should broaden the group of job candidates to in… [+2378 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Sarah Rumpf-Whitten, Liz Friden",
+      "title": "Defense Secretary Austin hospitalized following surgery complications - Fox News",
+      "description": "Defense Secretary Lloyd Austin is recovering at a Washington, D.C. hospital after \"complications\" following an elective surgery, the Pentagon said Friday.",
+      "url": "https://www.foxnews.com/politics/defense-secretary-austin-hospitalized-following-surgery-complications",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/lloyd-austin-iiss.jpg",
+      "publishedAt": "2024-01-05T23:27:00Z",
+      "content": "Read this article for free!\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you are agreeing… [+3968 chars]"
+    }
+  ]
+}
