@@ -6,7 +6,7 @@ export default class News extends Component {
     super();
     this.state = {
       articles: [],
-      page: 1, // Initialize the page property
+      page: 1, 
     };
   }
 
